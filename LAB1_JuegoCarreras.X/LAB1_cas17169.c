@@ -1,7 +1,8 @@
 /*
  * File:   LAB1_cas17169.c
- * Author: Josue
- * LAB1_Juego de Carreras 1.2
+ * Author: Josue Castillo Lou
+ * Carné:  17169
+ * LAB1_Juego de Carreras V1.2
  * Created on 24 de enero de 2020, 12:11 PM
  */
 
